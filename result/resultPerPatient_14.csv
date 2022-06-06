@@ -1,0 +1,339 @@
+Image Index,Predict label
+00025761_011.png,Atelectasis
+normal_1152.png,Atelectasis
+00025701_000.png,Atelectasis Effusion
+normal_502.png,Atelectasis Effusion Infiltration
+normal_196.png,Atelectasis Effusion Infiltration Mass
+00004547_014.png,Atelectasis Effusion Infiltration Mass
+00006996_006.png,Atelectasis Effusion Infiltration Mass
+00025709_000.png,Atelectasis Effusion Infiltration Mass Pneumothorax
+00026421_003.png,Atelectasis Effusion Infiltration Mass Pneumothorax
+00025754_001.png,Atelectasis Effusion Infiltration Mass Pneumothorax
+covid_355.png,Atelectasis Effusion Infiltration Mass Pneumothorax Emphysema
+covid_187.png,Atelectasis Effusion Infiltration Mass Pneumothorax Emphysema Fibrosis
+normal_1156.png,Atelectasis Effusion Infiltration Mass Pneumothorax Emphysema Fibrosis Pleural_Thickening
+normal_426.png,Atelectasis Effusion Infiltration Mass Pneumothorax Emphysema Fibrosis Pleural_Thickening Hernia
+00025801_000.png,
+00025725_001.png,Cardiomegaly
+normal_1106.png,Cardiomegaly
+normal_902.png,Cardiomegaly
+covid_299.jpg,Cardiomegaly
+normal_1411.jpeg,Cardiomegaly
+normal_99.png,Cardiomegaly
+normal_962.png,Cardiomegaly
+normal_940.png,Cardiomegaly
+normal_1196.png,Cardiomegaly
+normal_1064.png,Cardiomegaly
+normal_911.png,Cardiomegaly
+normal_1206.png,Cardiomegaly
+00025787_057.png,Cardiomegaly
+covid_292.jpg,
+normal_561.png,
+normal_1461.jpeg,
+normal_443.png,
+covid_245.jpeg,
+00025724_001.png,
+00002720_011.png,
+normal_268.png,
+00025679_000.png,
+normal_609.png,
+normal_1153.png,Emphysema
+covid_372.jpeg,Emphysema Fibrosis
+normal_611.png,Emphysema Fibrosis Pleural_Thickening
+00025810_000.png,Emphysema Fibrosis Pleural_Thickening
+normal_243.png,
+00025688_002.png,
+normal_1058.png,
+00004858_043.png,
+00025777_002.png,
+covid_191.png,
+00025734_004.png,
+00025800_009.png,Pneumothorax
+00028874_001.png,Pneumothorax
+00025787_014.png,Pneumothorax
+00021694_000.png,Pneumothorax Emphysema
+normal_333.png,Pneumothorax Emphysema
+00025683_002.png,Pneumothorax Emphysema
+00025773_000.png,Pneumothorax Emphysema
+normal_1254.png,
+normal_1198.png,Cardiomegaly
+normal_478.png,Cardiomegaly
+00025761_010.png,Cardiomegaly
+covid_26.png,Cardiomegaly Mass
+00025680_007.png,Cardiomegaly Mass
+normal_1340.png,Cardiomegaly Mass
+normal_533.png,Cardiomegaly Mass
+00025717_000.png,Cardiomegaly Mass
+covid_278.jpg,Cardiomegaly Mass
+00025768_001.png,Cardiomegaly Mass
+00025761_002.png,Cardiomegaly Mass
+covid_143.png,Cardiomegaly Mass
+normal_117.png,Cardiomegaly Mass
+normal_326.png,
+covid_24.png,
+covid_110.png,
+normal_1230.png,
+covid_389.jpeg,Mass
+00025723_000.png,Mass Nodule
+normal_628.png,Mass Nodule
+normal_1506.jpeg,Mass Nodule
+covid_173.png,Mass Nodule
+normal_193.png,Mass Nodule
+covid_337.jpg,Mass Nodule
+normal_1287.png,Mass Nodule Fibrosis
+00025806_003.png,Mass Nodule Fibrosis Pleural_Thickening
+covid_179.png,Mass Nodule Fibrosis Pleural_Thickening Hernia
+covid_328.jpg,Atelectasis
+00009453_001.png,Atelectasis
+normal_1052.png,Atelectasis Effusion
+00006689_001.png,Atelectasis Effusion Infiltration
+normal_418.png,Atelectasis Effusion Infiltration
+00025733_000.png,Atelectasis Effusion Infiltration
+normal_560.png,Atelectasis Effusion Infiltration
+00025789_004.png,Atelectasis Effusion Infiltration
+00027592_013.png,Atelectasis Effusion Infiltration Consolidation
+00025800_004.png,Atelectasis Effusion Infiltration Consolidation Edema
+covid_134.png,Atelectasis Effusion Infiltration Consolidation Edema
+covid_477.jpg,Atelectasis Effusion Infiltration Consolidation Edema
+covid_100.png,Atelectasis Effusion Infiltration Consolidation Edema
+normal_1124.png,Atelectasis Effusion Infiltration Consolidation Edema
+00025776_000.png,
+00018224_015.png,
+normal_568.png,
+covid_171.png,
+00025693_000.png,
+00018186_015.png,
+00023255_000.png,
+00025707_011.png,
+normal_1336.png,
+00002022_005.png,
+00010007_173.png,
+normal_38.png,
+covid_83.png,
+normal_484.png,
+covid_441.png,
+normal_423.png,
+normal_438.png,
+covid_122.png,Infiltration
+00025723_001.png,Infiltration
+00025707_019.png,Infiltration Nodule
+normal_816.png,Infiltration Nodule Pneumonia
+normal_1097.png,Infiltration Nodule Pneumonia
+normal_199.png,Infiltration Nodule Pneumonia Consolidation
+normal_379.png,Infiltration Nodule Pneumonia Consolidation Edema
+00025694_006.png,Infiltration Nodule Pneumonia Consolidation Edema
+00002437_032.png,Infiltration Nodule Pneumonia Consolidation Edema
+00025695_008.png,Infiltration Nodule Pneumonia Consolidation Edema
+00025707_009.png,Infiltration Nodule Pneumonia Consolidation Edema
+normal_1488.jpeg,Atelectasis
+normal_52.png,Atelectasis
+normal_44.png,Atelectasis Effusion
+00025707_010.png,Atelectasis Effusion Infiltration
+normal_720.png,Atelectasis Effusion Infiltration
+00025772_000.png,Atelectasis Effusion Infiltration
+covid_452.jpg,Atelectasis Effusion Infiltration Pneumonia
+normal_1102.png,Atelectasis Effusion Infiltration Pneumonia
+covid_31.png,Atelectasis Effusion Infiltration Pneumonia Consolidation
+normal_702.png,Atelectasis Effusion Infiltration Pneumonia Consolidation
+00025787_016.png,Atelectasis Effusion Infiltration Pneumonia Consolidation
+00011731_006.png,Atelectasis Effusion Infiltration Pneumonia Consolidation
+00025788_000.png,Atelectasis Effusion Infiltration Pneumonia Consolidation
+normal_1074.png,Atelectasis Effusion Infiltration Pneumonia Consolidation Hernia
+normal_909.png,
+normal_523.png,Cardiomegaly
+00025752_001.png,Cardiomegaly
+normal_1151.png,Cardiomegaly
+covid_23.png,Cardiomegaly
+normal_856.png,Cardiomegaly Nodule
+00025800_008.png,Cardiomegaly Nodule
+normal_785.png,Cardiomegaly Nodule
+normal_852.png,Cardiomegaly Nodule
+normal_337.png,Cardiomegaly Nodule
+normal_460.png,Cardiomegaly Nodule
+00025768_006.png,Cardiomegaly Nodule
+00004991_004.png,Cardiomegaly Nodule
+00007620_022.png,Cardiomegaly Nodule Hernia
+00025779_000.png,
+normal_1155.png,
+normal_658.png,
+00013894_015.png,Infiltration
+covid_13.png,Infiltration
+00025787_018.png,Infiltration
+00025798_000.png,Infiltration Pneumonia
+00025787_048.png,Infiltration Pneumonia
+00004470_006.png,Infiltration Pneumonia Consolidation
+00003062_002.png,Infiltration Pneumonia Consolidation Edema
+00027706_008.png,Infiltration Pneumonia Consolidation Edema
+covid_118.png,Infiltration Pneumonia Consolidation Edema Fibrosis
+00025806_005.png,Infiltration Pneumonia Consolidation Edema Fibrosis
+normal_313.png,Infiltration Pneumonia Consolidation Edema Fibrosis
+00025806_000.png,
+00030240_000.png,
+normal_46.png,Effusion
+00025811_006.png,Effusion
+covid_466.jpeg,Effusion Mass
+normal_1349.jpeg,Effusion Mass
+normal_1105.png,Effusion Mass
+normal_627.png,Effusion Mass
+normal_567.png,Effusion Mass
+00025707_018.png,Effusion Mass
+covid_112.png,Effusion Mass
+normal_412.png,Effusion Mass
+normal_927.png,Effusion Mass
+00026252_005.png,Effusion Mass
+normal_288.png,
+normal_110.png,
+normal_719.png,
+normal_301.png,
+normal_1368.jpeg,
+normal_302.png,
+covid_306.png,
+covid_242.jpeg,Pneumothorax
+normal_1236.png,Pneumothorax
+00025804_000.png,Pneumothorax
+normal_214.png,Pneumothorax Emphysema
+00025707_008.png,Pneumothorax Emphysema
+covid_227.png,Pneumothorax Emphysema Pleural_Thickening
+00023315_000.png,Pneumothorax Emphysema Pleural_Thickening
+normal_517.png,
+normal_1270.png,
+00025695_003.png,
+00025707_001.png,
+normal_943.png,
+normal_143.png,
+normal_1414.jpeg,
+normal_820.png,
+normal_175.png,
+covid_183.png,
+00025692_000.png,
+covid_274.jpg,
+00025761_013.png,
+00025704_000.png,
+normal_406.png,Atelectasis
+normal_1214.png,Atelectasis Cardiomegaly
+covid_263.jpeg,Atelectasis Cardiomegaly
+00025787_062.png,Atelectasis Cardiomegaly Infiltration
+00025691_004.png,Atelectasis Cardiomegaly Infiltration
+normal_121.png,Atelectasis Cardiomegaly Infiltration Nodule
+00025812_000.png,Atelectasis Cardiomegaly Infiltration Nodule Pneumonia
+normal_178.png,Atelectasis Cardiomegaly Infiltration Nodule Pneumonia
+normal_674.png,Atelectasis Cardiomegaly Infiltration Nodule Pneumonia
+normal_483.png,Atelectasis Cardiomegaly Infiltration Nodule Pneumonia Edema
+normal_1072.png,Atelectasis Cardiomegaly Infiltration Nodule Pneumonia Edema
+normal_284.png,Atelectasis Cardiomegaly Infiltration Nodule Pneumonia Edema
+00025802_000.png,Atelectasis Cardiomegaly Infiltration Nodule Pneumonia Edema
+00025787_040.png,Atelectasis Cardiomegaly Infiltration Nodule Pneumonia Edema
+00025761_008.png,
+covid_307.png,Cardiomegaly
+normal_884.png,Cardiomegaly
+normal_849.png,Cardiomegaly
+normal_974.png,Cardiomegaly
+normal_457.png,Cardiomegaly
+covid_273.jpg,Cardiomegaly
+00025702_000.png,Cardiomegaly
+normal_550.png,Cardiomegaly
+covid_62.png,Cardiomegaly
+00003669_005.png,Cardiomegaly
+normal_69.png,Cardiomegaly
+00025789_005.png,Cardiomegaly
+00025800_001.png,Cardiomegaly
+00025732_004.png,
+00025780_000.png,
+normal_1067.png,
+normal_663.png,Infiltration
+normal_264.png,Infiltration Mass
+normal_1121.png,Infiltration Mass
+normal_12.png,Infiltration Mass
+00025712_001.png,Infiltration Mass Pneumothorax
+normal_1343.jpeg,Infiltration Mass Pneumothorax Consolidation
+00025781_000.png,Infiltration Mass Pneumothorax Consolidation
+00025749_002.png,Infiltration Mass Pneumothorax Consolidation Emphysema
+normal_1137.png,Infiltration Mass Pneumothorax Consolidation Emphysema
+normal_725.png,Infiltration Mass Pneumothorax Consolidation Emphysema Pleural_Thickening
+normal_1508.jpeg,Infiltration Mass Pneumothorax Consolidation Emphysema Pleural_Thickening
+normal_1195.png,Atelectasis
+00025663_000.png,Atelectasis
+normal_101.png,Atelectasis Effusion
+00028071_003.png,Atelectasis Effusion Infiltration
+normal_1082.png,Atelectasis Effusion Infiltration Mass
+covid_426.png,Atelectasis Effusion Infiltration Mass
+normal_1475.jpeg,Atelectasis Effusion Infiltration Mass Pneumonia
+00025787_051.png,Atelectasis Effusion Infiltration Mass Pneumonia Pneumothorax
+00025787_050.png,Atelectasis Effusion Infiltration Mass Pneumonia Pneumothorax Consolidation
+00025670_000.png,Atelectasis Effusion Infiltration Mass Pneumonia Pneumothorax Consolidation Edema
+normal_520.png,Atelectasis Effusion Infiltration Mass Pneumonia Pneumothorax Consolidation Edema Emphysema
+00025787_054.png,Atelectasis Effusion Infiltration Mass Pneumonia Pneumothorax Consolidation Edema Emphysema
+normal_1169.png,Atelectasis Effusion Infiltration Mass Pneumonia Pneumothorax Consolidation Edema Emphysema Pleural_Thickening
+00028837_001.png,Atelectasis Effusion Infiltration Mass Pneumonia Pneumothorax Consolidation Edema Emphysema Pleural_Thickening
+00025664_028.png,
+00008045_003.png,Cardiomegaly
+00025774_000.png,Cardiomegaly
+normal_242.png,Cardiomegaly
+normal_939.png,Cardiomegaly
+normal_619.png,Cardiomegaly
+00025667_000.png,Cardiomegaly
+normal_1259.png,Cardiomegaly
+00025800_003.png,Cardiomegaly
+normal_881.png,Cardiomegaly
+normal_610.png,Cardiomegaly
+00025681_001.png,Cardiomegaly
+00025746_005.png,Cardiomegaly
+normal_1546.jpeg,Cardiomegaly
+covid_71.png,
+00025684_000.png,
+normal_1011.png,
+00005538_001.png,Infiltration
+covid_471.jpg,Infiltration
+normal_1452.jpeg,Infiltration
+00025787_061.png,Infiltration
+00025695_014.png,Infiltration
+normal_783.png,Infiltration
+00025730_000.png,Infiltration Edema
+normal_516.png,Infiltration Edema
+normal_1451.jpeg,Infiltration Edema
+00026478_001.png,Infiltration Edema
+covid_28.png,Infiltration Edema
+normal_470.png,
+normal_118.png,
+covid_47.png,
+00006792_003.png,
+00018944_012.png,
+00025787_037.png,
+normal_586.png,
+00025707_000.png,
+normal_1361.jpeg,
+covid_218.png,
+covid_178.png,
+normal_956.png,
+normal_1505.jpeg,
+00025754_009.png,
+covid_367.jpeg,
+normal_684.png,Cardiomegaly
+covid_107.png,Cardiomegaly
+covid_446.jpg,Cardiomegaly
+00025768_007.png,Cardiomegaly
+00025686_001.png,Cardiomegaly
+00025781_002.png,Cardiomegaly
+00025787_021.png,Cardiomegaly
+normal_1551.jpeg,Cardiomegaly
+covid_455.jpg,Cardiomegaly
+00005442_005.png,Cardiomegaly
+covid_115.png,Cardiomegaly
+normal_1224.png,Cardiomegaly
+normal_710.png,Cardiomegaly
+covid_268.jpg,
+00025787_053.png,Cardiomegaly
+normal_322.png,Cardiomegaly
+normal_897.png,Cardiomegaly
+normal_676.png,Cardiomegaly
+00025787_002.png,Cardiomegaly
+normal_247.png,Cardiomegaly
+00025680_009.png,Cardiomegaly
+normal_462.png,Cardiomegaly
+normal_1299.png,Cardiomegaly
+00025787_019.png,Cardiomegaly
+00027631_007.png,Cardiomegaly
+00025707_017.png,Cardiomegaly
+00025713_000.png,Cardiomegaly
+normal_244.png,
+normal_952.png,Cardiomegaly
